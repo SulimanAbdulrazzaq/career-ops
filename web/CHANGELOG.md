@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.1](https://github.com/career-ops-hq/career-ops/compare/web-v0.11.0...web-v0.11.1) (2026-09-16)
+
+
+### Bug Fixes
+
+* **web:** add vertical padding to pipeline facet chips ([#4038](https://github.com/career-ops-hq/career-ops/issues/4038)) ([b6bc5ff](https://github.com/career-ops-hq/career-ops/commit/b6bc5ffb92e847e43b91042d4b828c99ce5960a2))
+
 ## [0.11.0](https://github.com/career-ops-hq/career-ops/compare/web-v0.10.0...web-v0.11.0) (2026-09-16)
 
 
